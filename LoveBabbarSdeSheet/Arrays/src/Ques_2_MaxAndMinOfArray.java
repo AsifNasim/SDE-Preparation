@@ -1,5 +1,6 @@
-import java.util.Scanner;
+//Find the min and max of an array using minimum comparison
 
+import java.util.Scanner;
 public class Ques_2_MaxAndMinOfArray {
 
     //for returning two values
