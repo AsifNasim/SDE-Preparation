@@ -130,7 +130,7 @@ private static Pair getMinMaxDivide(int [] arr){
         return minmax;
     }
 
-
+//with the help of even/odd length approach
     private static Pair getMinMaxBetter(int [] arr){
         Pair minmax = new Pair();
 
