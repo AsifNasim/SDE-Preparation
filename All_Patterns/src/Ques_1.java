@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/*
+   1
+   232
+  34543
+ 4567654
+567898765
+   */
 public class Ques_1 {
     static Scanner s = new Scanner(System.in);
 

@@ -14,6 +14,7 @@ public class Ques_3_KthSmallestArray {
     }
 // solution is correct but time limit is exceeding
     private static int kthSmallestinArray(int[] arr, int k) {
+
         for (int j = 1; j <arr.length ; j++) {
             int key = arr[j];
             int i = j-1;

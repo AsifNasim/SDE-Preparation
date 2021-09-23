@@ -21,8 +21,7 @@ public class Ques_10_PascalTriangle {
     private static int nCr(int row, int r) {
         int num = fact(row);
         int deno = fact(row-r) * fact(r);
-        int result = num/deno;
-        return result;
+        return num/deno;
     }
 
     private static int fact(int row) {
